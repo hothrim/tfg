@@ -1,0 +1,27 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\ParticleBloodFollow.cs">
+    <Files>
+      <File FileName="Assets\scripts\Fight.cs" Line="208" Column="57" />
+      <File FileName="Assets\scripts\pnjController.cs" Line="97" Column="10" />
+      <File FileName="Assets\scripts\GoControllerPJ.cs" Line="884" Column="4" />
+      <File FileName="Assets\scripts\GoFight.cs" Line="131" Column="11" />
+      <File FileName="Assets\scripts\Wizard.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\PjSelection.cs" Line="63" Column="70" />
+      <File FileName="Assets\scripts\SearchCharacters.cs" Line="135" Column="47" />
+      <File FileName="Assets\scripts\Pj.cs" Line="77" Column="27" />
+      <File FileName="Assets\scripts\Character.cs" Line="138" Column="14" />
+      <File FileName="Assets\scripts\PnjShort.cs" Line="34" Column="21" />
+      <File FileName="Assets\scripts\EquipmentManagementWarrior.cs" Line="51" Column="1" />
+      <File FileName="Assets\scripts\ControllerMagicBullet.cs" Line="22" Column="89" />
+      <File FileName="Assets\scripts\SpellManagement.cs" Line="28" Column="31" />
+      <File FileName="Assets\scripts\Hud.cs" Line="131" Column="23" />
+      <File FileName="Assets\scripts\Warrior.cs" Line="30" Column="21" />
+      <File FileName="Assets\scripts\ParticleBloodFollow.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
