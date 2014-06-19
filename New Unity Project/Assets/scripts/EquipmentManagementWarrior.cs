@@ -48,7 +48,7 @@ public class EquipmentManagementWarrior : MonoBehaviour {
 			w= getWarrior();
 			
 			if(w.getEquipment().getActivation()){
-				Debug.Log (w.getEquipment().getDuration());
+				
 				w.getEquipment().reduceDuration();
 				if(w.getEquipment().getDuration() <= 0){
 					w.getEquipment().setActivation(false);

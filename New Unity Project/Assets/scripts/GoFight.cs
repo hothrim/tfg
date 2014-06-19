@@ -46,7 +46,7 @@ public class GoFight : MonoBehaviour {
 									ch.setGoFight(true);
 									chE.setGoFight(true);
 									pj.setIdFight(idFight);
-									Debug.Log ("NUEVA LUCHA");
+									
 									Fight f = new Fight(ch,chE,idFight);	 
 									fightsList.Add(f);
 									idFight++;
